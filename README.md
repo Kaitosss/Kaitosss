@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Boom
+# 💫 Hi 👋, I'm Rattaphum Motien
 
 Email Me 👉 ✉️ **nuruto123456789za@gmail.com** For Collaboration/Project or Anything Else. 😊
 
