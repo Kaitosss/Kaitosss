@@ -1,65 +1,29 @@
+# 👋 Hi, I'm Boom  
 
-## About me
-```java
-import  java.util.*;
+**Information Technology Student**
 
+Passionate about programming
 
-public  class  ProgrammingEnthusiast {
+## 📬 Contact Me
+- **Email:** nuruto123456789za@gmail.com  
+- **GitHub:** Kaitosss  
+- **Facebook:** Rattaphum Mothian  
+- **Instagram:** kasato06  
 
-	private  String  username  =  "Boom";
+---
 
-	private  String  role  =  "Information Technology Student";
+## 🧑‍💻 About Me
+- 💡 Interested in:  
+  - Software Engineering  
+  - Fullstack Development  
+  - DevOps Engineering  
+- 📚 Currently Learning:  
+  - Web Development  
+  - Mobile Application Development  
+  - Security Fundamentals  
+  - Computer Networking  
+- 🧠 I enjoy learning new technologies through hands-on practice.
+---
 
-	  
-	private  final  Map<String, String> contacts  =  Map.of(
-
-		"email", "nuruto123456789za@gmail.com",
-	
-		"github", "Kaitosss",
-	
-		"facebook", "Rattaphum Mothian",
-	
-		"instagram", "kasato06"
-
-	);
-
-	  
-	private  final  List<String> passions  =  List.of(
-
-		"Software Engineer",
-	
-		"Fullstack Developer",
-	
-		"DevOps Engineer"
-
-	);
-
-	 
-	private  final  List  currently_learning  =  Arrays.asList(
-
-		"Security Fundamentals",
-	
-		"Mobile Application Development",
-	
-		"Web Development",
-	
-		"Computer Networking"
-
-	);
-
-
-	public  String  current_focus(){
-
-		return  "Looking for a Job";
-
-	}
-
-
-	public  String  say_happyToContribute(){
-
-		return  "Always happy to collaborate on programming and tech projects!";
-
-	}
-
-}
-```
+## 🤝 Collaboration
+Always happy to collaborate on programming and technology projects!
