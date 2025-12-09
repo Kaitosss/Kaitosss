@@ -1,13 +1,65 @@
-# 💫 Hi 👋, I'm Rattaphum Motien
 
-Email Me 👉 ✉️ **nuruto123456789za@gmail.com** For Collaboration/Project or Anything Else. 😊
+## About me
+```java
+import  java.util.*;
 
-## 💼 Looking for Opportunities
 
-I am currently **seeking opportunities as a Software Engineer and Fullstack Developer.**  
+public  class  ProgrammingEnthusiast {
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kasato06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nuruto123456789za@gmail.com) 
+	private  String  username  =  "Boom";
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kaitosss&limit=5&theme=dark&combine_all_yearly_contributions=true)
+	private  String  role  =  "Information Technology Student";
+
+	  
+	private  final  Map<String, String> contacts  =  Map.of(
+
+	"email", "nuruto123456789za@gmail.com",
+
+	"github", "Kaitosss",
+
+	"facebook", "Rattaphum Mothian",
+
+	"instagram", "kasato06"
+
+	);
+
+	  
+	private  final  List<String> passions  =  List.of(
+
+	"Software Engineer",
+
+	"Fullstack Developer",
+
+	"DevOps Engineer"
+
+	);
+
+	 
+	private  final  List  currently_learning  =  Arrays.asList(
+
+	"Security Fundamentals",
+
+	"Mobile Application Development",
+
+	"Web Development",
+
+	"Computer Networking"
+
+	);
+
+
+	public  String  current_focus(){
+
+	return  "Looking for a Job";
+
+	}
+
+
+	public  String  say_happyToContribute(){
+
+	return  "Always happy to collaborate on programming and tech projects!";
+
+	}
+
+}
+```
