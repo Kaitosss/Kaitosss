@@ -3,6 +3,7 @@
 **Information Technology Student**
 
 Passionate about programming
+Looking for work
 
 ## 📬 Contact Me
 - **Email:** nuruto123456789za@gmail.com  
