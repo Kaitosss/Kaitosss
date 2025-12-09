@@ -2,7 +2,7 @@
 
 **Information Technology Student**
 
-Passionate about programming
+I have a passion for programming
 
 Looking for work
 
