@@ -17,7 +17,7 @@ Looking for work
 ## 🧑‍💻 About Me
 - 💡 Interested in:  
   - Software Engineering  
-  - Fullstack Development  
+  - Fullstack Developer 
   - DevOps Engineering  
 - 📚 Currently Learning:  
   - Web Development  
