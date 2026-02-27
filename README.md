@@ -9,15 +9,9 @@ Looking for work
 ## 📬 Contact Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/almond-p-b48b0b363/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/rattaphum.mothian?locale=th_TH" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/zemiooi/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<a href="https://linkedin.com/in/almond-p-b48b0b363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almond-p-b48b0b363" height="25" width="40" /></a>
+<a href="https://fb.com/rattaphum.mothian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rattaphum.mothian" height="30" width="40" /></a>
+<a href="https://instagram.com/zemiooi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zemiooi" height="30" width="40" /></a>
 </div>
 
 ## 💻 About Me
