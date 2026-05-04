@@ -8,11 +8,7 @@ Looking for work
 
 ## 📬 Contact Me
 
-<div align="left">
-<a href="https://linkedin.com/in/almond-p-b48b0b363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almond-p-b48b0b363" height="25" width="40" /></a>
-<a href="https://fb.com/rattaphum.mothian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rattaphum.mothian" height="30" width="40" /></a>
-<a href="https://instagram.com/zemiooi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zemiooi" height="30" width="40" /></a>
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rattaphum.mothian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zemiooi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/almond-p-b48b0b363) 
 
 ## 💻 About Me
 
